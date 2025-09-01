@@ -1,3 +1,4 @@
+#Windows Only
 
 # Uses a pre-existing Amplitube 5 at5p preset file as the base, where Amp A is a Tonex Model (used as placeholder), this can be edited to your liking, but AMP A must ALWAYS be a TONEX model (unless you know how to edit scripts here)
 
