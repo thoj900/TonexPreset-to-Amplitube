@@ -1,7 +1,5 @@
 
-# a default Amplitube 5 preset is needed, a starter preset is supplied. It uses the preset structure as the base 
-# and only edits AMP BLOCK A parameters with a TONEX model feel free to edit the default, AMP route A MUST ALWAYS 
-# be a TONEX model (any TONEX model, its a placeholder model) if you edit the default
+# a default Amplitube 5 preset is needed, a starter preset is supplied. It uses the preset structure as the base and only edits AMP BLOCK A parameters with a TONEX model feel free to edit the default, AMP route A MUST ALWAYS be a TONEX model (any TONEX model, its a placeholder model) if you edit the default
 
 1. Download and install (default settings) SQLiteStudio -> https://sqlitestudio.pl/
 
